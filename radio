@@ -1,0 +1,34 @@
+{
+  "radios": [
+    {
+      "nome": "HunterFM",
+      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/hunter-fm-gospel.png",
+      "url": "",
+      "descricao": "Escute os melhores louvores gospel 2025"
+    },
+    {
+      "nome": "Gospel FM 89.3",
+      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/gospel-curitiba.png",
+      "url": "",
+      "descricao": "A sintonia certa para os maiores sucessos gospel da atualidade"
+    },
+    {
+      "nome": "Evangélica 100.7 FM",
+      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/evangelica-recife.png",
+      "url": "",
+      "descricao": "Uma emissora dedicada à palavra de Deus e à boa música cristã"
+    },
+    {
+      "nome": "Esperança 100,9 FM",
+      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/esperanca-sao-luis.png",
+      "url": "",
+      "descricao": "Mensagens de fé e músicas que renovam sua esperança"
+    },
+    {
+      "nome": "Novo Tempo - A Voz da Esperança",
+      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/novo-salvador.png",
+      "url": "",
+      "descricao": "Inspiração diária com louvores e mensagens de esperança"
+    }
+  ]
+}
