@@ -1,34 +1,18 @@
 {
   "radios": [
+{
+      "nome": "Radio Gospel",
+      "icone": "https://raw.githubusercontent.com/vpsforlivealtw234/radio/refs/heads/main/gospel_full_hd.png",
+      "url": "https://hls.hunter.fm/gospel/64.m3u8",
+      "banner": "",
+      "descricao": "A sintonia certa para os maiores sucessos gospel da atualidade"
+    },
     {
       "nome": "Sinai Web Gospel",
       "icone": "https://cdn.hunter.fm/image/thumb/station/gospel-third/400x400ht.jpg",
       "url": "https://centova4.transmissaodigital.com:20278/stream",
+      "banner": "",
       "descricao": "Escute os melhores louvores gospel 2025"
-    },
-    {
-      "nome": "Gospel FM 89.3",
-      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/gospel-curitiba.png",
-      "url": "https://hls.hunter.fm/gospel/64.m3u8",
-      "descricao": "A sintonia certa para os maiores sucessos gospel da atualidade"
-    },
-    {
-      "nome": "Evangélica 100.7 FM",
-      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/evangelica-recife.png",
-      "url": "https://hts06.brascast.com:9294/live",
-      "descricao": "Uma emissora dedicada à palavra de Deus e à boa música cristã"
-    },
-    {
-      "nome": "Esperança 100,9 FM",
-      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/esperanca-sao-luis.png",
-      "url": "",
-      "descricao": "Mensagens de fé e músicas que renovam sua esperança"
-    },
-    {
-      "nome": "Novo Tempo - A Voz da Esperança",
-      "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/novo-salvador.png",
-      "url": "",
-      "descricao": "Inspiração diária com louvores e mensagens de esperança"
     }
   ]
 }
