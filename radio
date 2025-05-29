@@ -9,7 +9,7 @@
     {
       "nome": "Gospel FM 89.3",
       "icone": "https://cdn.instant.audio/images/logos/radiosaovivo-net/gospel-curitiba.png",
-      "url": "https://stm4.srvif.com:8596/stream?type=.mp3",
+      "url": "https://hls.hunter.fm/gospel/64.m3u8",
       "descricao": "A sintonia certa para os maiores sucessos gospel da atualidade"
     },
     {
